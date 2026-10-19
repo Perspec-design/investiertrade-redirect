@@ -6,3 +6,5 @@ compatibility_date = "2026-10-19"
 binding = "DB"
 database_name = "links"
 database_id = "44abf4b9-6e95-4796-887c-5f29bd578870"
+# wrangler.toml
+name = 'investiertrade-redirect'
