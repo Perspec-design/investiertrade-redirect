@@ -1,0 +1,6 @@
+{
+  "name": "investiertrade-redirect",
+  "dependencies": {
+    "hono": "^4.0.0"
+  }
+}
